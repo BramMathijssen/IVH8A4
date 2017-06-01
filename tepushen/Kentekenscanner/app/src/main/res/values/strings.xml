@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kentekenscanner</string>
+    <string name="title_scan">Scan</string>
+    <string name="title_scanned">Gescand</string>
+</resources>
